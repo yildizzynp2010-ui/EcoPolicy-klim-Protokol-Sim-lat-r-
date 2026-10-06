@@ -1,2 +1,2 @@
-# EcoPolicy-klim-Protokol-Sim-lat-r-
-Bu proje; yapay görme teknolojisiyle el hareketlerini takip ederek uluslararası iklim politikalarını yönetmeyi sağlayan interaktif bir strateji simülasyonudur.
+# Google Earth ile İklim Değişikliği Zaman Yolculuğu
+Google Earth platformunu kullanarak dünyadaki küresel ısınmanın ve iklim değişikliğinin somut kanıtlarını canlı uydu görüntüleriyle gösteren bir çalışmadır.
